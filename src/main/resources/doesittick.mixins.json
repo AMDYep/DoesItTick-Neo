@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "io.github.amdyep.doesittick.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "doesittick.refmap.json",
+  "mixins": [
+    "Mixin$EntityType",
+    "Mixin$Level"
+  ],
+  "minVersion": "0.8"
+}
